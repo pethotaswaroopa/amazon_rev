@@ -1,8 +1,6 @@
 pandas==1.1.5
 nltk==3.5
 wordnet
-pros_cons
-reuters
 Flask==1.1.2
 numpy==1.19.4
 requests==2.25.1
